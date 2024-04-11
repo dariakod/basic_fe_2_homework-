@@ -1,0 +1,136 @@
+h1{
+    text-align: center;
+    font-size: 22px;
+    }
+h2{
+    text-align: center;
+    font-size: medium;
+
+}
+h3{
+    text-align: center;
+    font-size: medium;
+}
+
+.block1{
+    background-color: rgb(241, 216, 227);
+    border: 5px solid rgb(223, 168, 177);
+    border-width: 3px;
+    margin-bottom: 20px;
+    }
+
+.block1 img {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+}
+
+.highlight1{
+    color: rgb(179, 94, 122);
+    font-size: 18px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.link{
+    padding: 20px
+}
+.p1_2_3{
+    padding: 20px;
+}
+
+h4{
+    text-align: center;
+    font-size: medium;
+}
+
+h5{
+    text-align: center;
+    font-size: medium;
+}
+
+h2,h3,h4,h5 {
+    margin-bottom: 2px;
+    margin-top: 2%;
+}
+
+.highlight2{
+    color: rgb(111, 34, 111);
+    font-size: 18px;
+    font-style: italic;
+    text-decoration: underline;
+
+}
+
+
+
+.block2{
+    background-color: rgb(194, 194, 237);
+    border: 5px solid rgb(128, 128, 239);
+    border-width: 3px;
+    margin-bottom: 20px;
+
+}
+
+.block2 img{
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+}
+
+h6{
+    text-align: center;
+    font-size: medium;
+    margin-bottom: 2px;
+    margin-top: 2%;
+}
+
+
+.block3{
+    background-color: rgb(233, 214, 189);
+    border: 5px solid rgb(158, 111, 48);
+    border-width: 3px;
+    margin-bottom: 20px;
+}
+
+.block3 img{
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+}
+
+.highlight3{
+    color: rgb(129, 93, 46);
+    font-size: 18px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.block4{
+    background-color: white;
+    border: 1px solid black;
+    border-width: 1px;
+    text-align: center;
+}
+
+.facebook_logo{
+    margin-bottom: 10px;
+    width: 24px;
+    height: 24px;
+
+}
+
+.instagram_logo{
+    width: 24px;
+    height: 24px;
+    margin-bottom: 10px;
+  
+}
+
+.linkedin_logo{
+    width: 25px;
+    height: 25px;
+    margin-bottom: 10px;
+   }
+
+  
